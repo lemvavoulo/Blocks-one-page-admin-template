@@ -1,15 +1,13 @@
 Blocks-one-page-admin-template
 ==============================
 
-One page admin template that looks a lot like geckoboard but provides a lot more on the frontend
+One page admin template that looks a lot like geckoboard 
+It also includes more pages' templates.
+The following website does not seem to work properly so I decided to upload this project.
 
-
-*********************************************
-*					    *
-* This Theme was downloaded from Alvarez.is *
-*					    *
-*********************************************
-
+*****************************************************************************************************************************
+    
+This Theme was downloaded from Alvarez.is 
 
 Thank you so much for download this theme!
 
